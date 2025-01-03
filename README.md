@@ -1,2 +1,2 @@
 JAVA
-Interface Project to learn its Feature and Usage.
+Interface Project To Learn Its Feature and Usage.
